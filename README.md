@@ -1,7 +1,7 @@
 
 # Language Recognition
 
-This project was developed at the Polytechnic School of the University of São Paulo for a lecture about Artificial Neural Networks.
+This project was developed at the [Polytechnic School of the University of São Paulo](https://www.poli.usp.br/) for a lecture about Artificial Neural Networks, 2007 - more about [here](http://sandmann.sdf.org/reconhecedor/).
 
 Here was used Multilayer Perceptron approach, the source is available in the ```src``` folder. We lost the original version because that we did reverse engineering over the compiled version.
 
